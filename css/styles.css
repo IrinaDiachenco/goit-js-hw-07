@@ -1,0 +1,17 @@
+.gallery {
+  margin: 0;
+  padding: 30px;
+  display: flex;
+  align-items: center;
+  background-color: darkgrey;
+}
+
+.gallery__item {
+  list-style: none;
+}
+
+.gallery__image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
